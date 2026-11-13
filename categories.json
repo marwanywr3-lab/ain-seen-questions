@@ -1,0 +1,344 @@
+[
+  {
+    "id": "c01",
+    "name": "أعلام",
+    "description": "أعلام",
+    "iconId": "category-v3-01",
+    "icon": "categories-v3/c01.svg",
+    "presentation": "text",
+    "accent": "#f7eccb"
+  },
+  {
+    "id": "c02",
+    "name": "الحرب العالمية",
+    "description": "الحرب العالمية",
+    "iconId": "category-v3-02",
+    "icon": "categories-v3/c02.svg",
+    "presentation": "text",
+    "accent": "#f7eccb"
+  },
+  {
+    "id": "c03",
+    "name": "الحرمين",
+    "description": "الحرمين",
+    "iconId": "category-v3-03",
+    "icon": "categories-v3/c03.svg",
+    "presentation": "text",
+    "accent": "#f7eccb"
+  },
+  {
+    "id": "c04",
+    "name": "الجنوب",
+    "description": "الجنوب",
+    "iconId": "category-v3-04",
+    "icon": "categories-v3/c04.svg",
+    "presentation": "text",
+    "accent": "#f7d6cb"
+  },
+  {
+    "id": "c05",
+    "name": "الشرقية",
+    "description": "الشرقية",
+    "iconId": "category-v3-05",
+    "icon": "categories-v3/c05.svg",
+    "presentation": "text",
+    "accent": "#cbecf7"
+  },
+  {
+    "id": "c06",
+    "name": "الشمال",
+    "description": "الشمال",
+    "iconId": "category-v3-06",
+    "icon": "categories-v3/c06.svg",
+    "presentation": "text",
+    "accent": "#f7d6cb"
+  },
+  {
+    "id": "c07",
+    "name": "الصحابة",
+    "description": "الصحابة",
+    "iconId": "category-v3-07",
+    "icon": "categories-v3/c07.svg",
+    "presentation": "text",
+    "accent": "#f7eccb"
+  },
+  {
+    "id": "c08",
+    "name": "الغربية",
+    "description": "الغربية",
+    "iconId": "category-v3-08",
+    "icon": "categories-v3/c08.svg",
+    "presentation": "text",
+    "accent": "#f7eccb"
+  },
+  {
+    "id": "c09",
+    "name": "الكويت",
+    "description": "الكويت",
+    "iconId": "category-v3-09",
+    "icon": "categories-v3/c09.svg",
+    "presentation": "text",
+    "accent": "#f7d6cb"
+  },
+  {
+    "id": "c10",
+    "name": "الوسطى",
+    "description": "الوسطى",
+    "iconId": "category-v3-10",
+    "icon": "categories-v3/c10.svg",
+    "presentation": "text",
+    "accent": "#f7d6cb"
+  },
+  {
+    "id": "c11",
+    "name": "تطبيقات",
+    "description": "تطبيقات",
+    "iconId": "category-v3-11",
+    "icon": "categories-v3/c11.svg",
+    "presentation": "text",
+    "accent": "#cbd6f7"
+  },
+  {
+    "id": "c12",
+    "name": "تكنولوجيا",
+    "description": "تكنولوجيا",
+    "iconId": "category-v3-12",
+    "icon": "categories-v3/c12.svg",
+    "presentation": "text",
+    "accent": "#f7eccb"
+  },
+  {
+    "id": "c13",
+    "name": "جغرافيا",
+    "description": "جغرافيا",
+    "iconId": "category-v3-13",
+    "icon": "categories-v3/c13.svg",
+    "presentation": "text",
+    "accent": "#cbd6f7"
+  },
+  {
+    "id": "c14",
+    "name": "جيل الطيبين",
+    "description": "جيل الطيبين",
+    "iconId": "category-v3-14",
+    "icon": "categories-v3/c14.svg",
+    "presentation": "text",
+    "accent": "#cbd6f7"
+  },
+  {
+    "id": "c15",
+    "name": "جزء تبارك",
+    "description": "جزء تبارك",
+    "iconId": "category-v3-15",
+    "icon": "categories-v3/c15.svg",
+    "presentation": "text",
+    "accent": "#f7eccb"
+  },
+  {
+    "id": "c16",
+    "name": "جزء عم",
+    "description": "جزء عم",
+    "iconId": "category-v3-16",
+    "icon": "categories-v3/c16.svg",
+    "presentation": "text",
+    "accent": "#f7eccb"
+  },
+  {
+    "id": "c17",
+    "name": "دول وعواصم",
+    "description": "دول وعواصم",
+    "iconId": "category-v3-17",
+    "icon": "categories-v3/c17.svg",
+    "presentation": "text",
+    "accent": "#cbd6f7"
+  },
+  {
+    "id": "c18",
+    "name": "رؤساء الدول",
+    "description": "رؤساء الدول",
+    "iconId": "category-v3-18",
+    "icon": "categories-v3/c18.svg",
+    "presentation": "text",
+    "accent": "#f7d6cb"
+  },
+  {
+    "id": "c19",
+    "name": "سياحة وسفر",
+    "description": "سياحة وسفر",
+    "iconId": "category-v3-19",
+    "icon": "categories-v3/c19.svg",
+    "presentation": "text",
+    "accent": "#f7eccb"
+  },
+  {
+    "id": "c20",
+    "name": "سوبرماركت",
+    "description": "سوبرماركت",
+    "iconId": "category-v3-20",
+    "icon": "categories-v3/c20.svg",
+    "presentation": "text",
+    "accent": "#f7d6cb"
+  },
+  {
+    "id": "c21",
+    "name": "شعارات سعودية",
+    "description": "شعارات سعودية",
+    "iconId": "category-v3-21",
+    "icon": "categories-v3/c21.svg",
+    "presentation": "text",
+    "accent": "#f7eccb"
+  },
+  {
+    "id": "c22",
+    "name": "شعارات عالمية",
+    "description": "شعارات عالمية",
+    "iconId": "category-v3-22",
+    "icon": "categories-v3/c22.svg",
+    "presentation": "text",
+    "accent": "#f7d6cb"
+  },
+  {
+    "id": "c23",
+    "name": "عالم الساعات",
+    "description": "عالم الساعات",
+    "iconId": "category-v3-23",
+    "icon": "categories-v3/c23.svg",
+    "presentation": "text",
+    "accent": "#f7eccb"
+  },
+  {
+    "id": "c24",
+    "name": "عالم الطيران",
+    "description": "عالم الطيران",
+    "iconId": "category-v3-24",
+    "icon": "categories-v3/c24.svg",
+    "presentation": "text",
+    "accent": "#cbecf7"
+  },
+  {
+    "id": "c25",
+    "name": "عواصم",
+    "description": "عواصم",
+    "iconId": "category-v3-25",
+    "icon": "categories-v3/c25.svg",
+    "presentation": "text",
+    "accent": "#cbecf7"
+  },
+  {
+    "id": "c26",
+    "name": "عطور عالمية",
+    "description": "عطور عالمية",
+    "iconId": "category-v3-26",
+    "icon": "categories-v3/c26.svg",
+    "presentation": "text",
+    "accent": "#f7d6cb"
+  },
+  {
+    "id": "c27",
+    "name": "عطور عربية",
+    "description": "عطور عربية",
+    "iconId": "category-v3-27",
+    "icon": "categories-v3/c27.svg",
+    "presentation": "text",
+    "accent": "#f7eccb"
+  },
+  {
+    "id": "c28",
+    "name": "عملات",
+    "description": "عملات",
+    "iconId": "category-v3-28",
+    "icon": "categories-v3/c28.svg",
+    "presentation": "text",
+    "accent": "#f7eccb"
+  },
+  {
+    "id": "c29",
+    "name": "عمان",
+    "description": "عمان",
+    "iconId": "category-v3-29",
+    "icon": "categories-v3/c29.svg",
+    "presentation": "text",
+    "accent": "#f7eccb"
+  },
+  {
+    "id": "c30",
+    "name": "قصص الأنبياء",
+    "description": "قصص الأنبياء",
+    "iconId": "category-v3-30",
+    "icon": "categories-v3/c30.svg",
+    "presentation": "text",
+    "accent": "#f7d6cb"
+  },
+  {
+    "id": "c31",
+    "name": "قطر",
+    "description": "قطر",
+    "iconId": "category-v3-31",
+    "icon": "categories-v3/c31.svg",
+    "presentation": "text",
+    "accent": "#f7eccb"
+  },
+  {
+    "id": "c32",
+    "name": "لغات ولهجات",
+    "description": "لغات ولهجات",
+    "iconId": "category-v3-32",
+    "icon": "categories-v3/c32.svg",
+    "presentation": "text",
+    "accent": "#f7d6cb"
+  },
+  {
+    "id": "c33",
+    "name": "ما هي الدولة",
+    "description": "ما هي الدولة",
+    "iconId": "category-v3-33",
+    "icon": "categories-v3/c33.svg",
+    "presentation": "text",
+    "accent": "#cbf7d6"
+  },
+  {
+    "id": "c34",
+    "name": "ما هي المدينة",
+    "description": "ما هي المدينة",
+    "iconId": "category-v3-34",
+    "icon": "categories-v3/c34.svg",
+    "presentation": "text",
+    "accent": "#cbecf7"
+  },
+  {
+    "id": "c35",
+    "name": "مطاعم السعودية",
+    "description": "مطاعم السعودية",
+    "iconId": "category-v3-35",
+    "icon": "categories-v3/c35.svg",
+    "presentation": "text",
+    "accent": "#f7eccb"
+  },
+  {
+    "id": "c36",
+    "name": "موسم الرياض",
+    "description": "موسم الرياض",
+    "iconId": "category-v3-36",
+    "icon": "categories-v3/c36.svg",
+    "presentation": "text",
+    "accent": "#cbd6f7"
+  },
+  {
+    "id": "c37",
+    "name": "نحو وإعراب",
+    "description": "نحو وإعراب",
+    "iconId": "category-v3-37",
+    "icon": "categories-v3/c37.svg",
+    "presentation": "text",
+    "accent": "#f7cbd6"
+  },
+  {
+    "id": "c38",
+    "name": "Ai",
+    "description": "Ai",
+    "iconId": "category-v3-38",
+    "icon": "categories-v3/c38.svg",
+    "presentation": "text",
+    "accent": "#f7eccb"
+  }
+]
